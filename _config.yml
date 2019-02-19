@@ -1,1 +1,9 @@
+title: Loloyou IT World
+email: zjw_55@hotmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is Loloyou IT World, share IT knowledge on software, protocol, program language, website, database, big data, machine learning, git
+url: "http://www.loloyou.wang" # the base hostname & protocol for your site, e.g. http://example.com
+
 theme: minima
+plugins:
+  - jekyll-feed
